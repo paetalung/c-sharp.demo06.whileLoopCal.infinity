@@ -40,6 +40,7 @@ namespace demo05.whileLoopCalculator
                 }
                 else
                 {
+                    Console.Write("\nGood bye.\n");
                     check = false;
                 }
 
